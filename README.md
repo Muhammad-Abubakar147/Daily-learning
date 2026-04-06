@@ -3,6 +3,7 @@
  ## DaY 2 
 - Learned GitHub commit process
 - Updated README file
+- Practiced GitHub commits
  
 
 
