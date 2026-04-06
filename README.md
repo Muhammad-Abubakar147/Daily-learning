@@ -4,6 +4,7 @@
 - Learned GitHub commit process
 - Updated README file
 - Practiced GitHub commits
+- Improved README formatting
  
 
 
