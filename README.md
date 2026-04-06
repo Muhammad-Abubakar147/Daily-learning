@@ -5,6 +5,7 @@
 - Updated README file
 - Practiced GitHub commits
 - Improved README formatting
+- Learned consistency importance
  
 
 
