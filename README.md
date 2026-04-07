@@ -10,6 +10,7 @@
  Python revision started
 - Practiced basic concepts
 - Learning consistency maintained
- 
+- - Variables and Data Types
+
 
 
