@@ -8,6 +8,8 @@
 - Learned consistency importance
  ## Day 3
  Python revision started
+- Practiced basic concepts
+- Learning consistency maintained
  
 
 
