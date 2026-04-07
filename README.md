@@ -16,16 +16,7 @@
 - Learned comments (#)
 ###Day 3 code
 print("Hello from Daily Learning!")
-name = "Muhammad Abubakar"
-age = 20
-print("My name is", name)
-print("I am", age, "years old")
 
-# Simple calculations
-a = 15
-b = 7
-print("Addition:", a + b)
-print("Multiplication:", a * b)
 
  
 
