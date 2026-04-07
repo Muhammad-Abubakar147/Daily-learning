@@ -6,6 +6,8 @@
 - Practiced GitHub commits
 - Improved README formatting
 - Learned consistency importance
+ ## Day 3
+ Python revision started
  
 
 
