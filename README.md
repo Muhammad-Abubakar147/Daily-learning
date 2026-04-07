@@ -13,6 +13,7 @@
 -  Variables and Data Types
 - Print function
 - Basic operations (+, -, *, /)
+- Learned comments (#)
 
  
 
