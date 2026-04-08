@@ -2,4 +2,5 @@
 
 - Started string revision
 - Learned f-strings
+- Practiced basic string operations
 
