@@ -22,6 +22,8 @@ Python strings and basic operations continued
 - Learned Python Lists
 -  List indexing and slicing
 - Basic list methods
+- append(), pop() and remove() methods
+- List length using len()
 
 
 
