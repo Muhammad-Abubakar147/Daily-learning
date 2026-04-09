@@ -21,6 +21,7 @@ Python strings and basic operations continued
 # Day 5 - Lists in Python
 - Learned Python Lists
 -  List indexing and slicing
+- Basic list methods
 
 
 
