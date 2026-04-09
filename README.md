@@ -19,6 +19,7 @@ print("Hello from Daily Learning!")
 ## Day 5 - 09 April 2026
 Python strings and basic operations continued
 # Day 5 - Lists in Python
+- Learned Python Lists
 
 
 
