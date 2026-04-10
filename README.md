@@ -34,6 +34,9 @@ Python Lists revision continued
 numbers = [10, 20, 30, 40, 50]
 
 print("Original List:", numbers)
+print("First element:", numbers[0])
+
+
 
 
 
