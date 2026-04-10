@@ -27,6 +27,8 @@ Python strings and basic operations continued
 ## Day 6 - 10 April 2026
 
 Python Lists revision continued
+- Revised Lists in Python
+
 
 
 
