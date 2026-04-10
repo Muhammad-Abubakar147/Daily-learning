@@ -41,7 +41,7 @@ print("Last element:", numbers[-1]
 
 print("Total elements:", len(numbers))
 
-# Adding new element
+Adding new element
 numbers.append(60)
 print("After append:", numbers)
 
