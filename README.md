@@ -28,6 +28,7 @@ Python strings and basic operations continued
 
 Python Lists revision continued
 - Revised Lists in Python
+-  Practiced indexing and basic methods
 
 
 
