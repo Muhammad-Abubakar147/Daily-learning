@@ -29,6 +29,11 @@ Python strings and basic operations continued
 Python Lists revision continued
 - Revised Lists in Python
 -  Practiced indexing and basic methods
+-  # Day 6 - Lists Practice
+
+numbers = [10, 20, 30, 40, 50]
+
+print("Original List:", numbers)
 
 
 
