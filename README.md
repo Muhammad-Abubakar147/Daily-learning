@@ -44,6 +44,8 @@ print("Total elements:", len(numbers))
 Adding new element
 numbers.append(60)
 print("After append:", numbers)
+## Day 7 -11 April 2026
+make new repositories and do some work
 
 
 
