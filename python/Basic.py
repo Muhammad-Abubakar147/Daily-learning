@@ -3,8 +3,16 @@ print("my name is muhammad abubakar")
 print("iam 21 years old")
 #How to take input 
 
-num=int("enter your number :")
+num=int(input("enter ur number"))
 
 #How take flot input
 
-num=float("enter your number :")
+num=float(input("enter your number :"))
+
+#first program
+
+num=int(input("enter your number :"))
+num_2=int(input("enter your second number"))
+sum=num+num_2
+print(sum)
+
