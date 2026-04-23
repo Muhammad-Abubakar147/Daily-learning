@@ -16,3 +16,5 @@ num_2=int(input("enter your second number"))
 sum=num+num_2
 print(sum)
 
+age = int(input("Enter your age: "))
+print("Your age is", age)
