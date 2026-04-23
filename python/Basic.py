@@ -18,3 +18,6 @@ print(sum)
 
 age = int(input("Enter your age: "))
 print("Your age is", age)
+
+a, b = input("Enter two numbers: ").split()
+print(a, b)
