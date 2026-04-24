@@ -3,4 +3,9 @@ num=int(input("Enter ur first num :"))
 
 #flaot
 
-num=float(input("enter ur  secnd number :"))
+num_2=float(input("enter ur  secnd number :"))
+
+
+#sum
+sum=num+num_2
+print(sum)
