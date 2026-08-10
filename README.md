@@ -29,3 +29,32 @@ Each day I document:
 - 🐛 Problems or errors I faced
 - ✅ What I completed
 - 🎯 What I plan to learn next
+
+## 📝 Daily Entry Format
+
+```text
+# 📅 YYYY-MM-DD
+
+## 📚 What I Learned
+
+- 
+
+## 💻 What I Practiced
+
+- 
+
+## 🛠️ What I Built
+
+- 
+
+## 🐛 Problems / Errors
+
+- 
+
+## ✅ Today's Progress
+
+- 
+
+## 🎯 Tomorrow's Goal
+
+- 
