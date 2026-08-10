@@ -19,3 +19,13 @@ This repository is my personal learning diary where I document what I learn, pra
 - 📈 Track my progress over time
 
 ---
+## 📅 Daily Learning Log
+
+Each day I document:
+
+- 📚 What I learned
+- 💻 What I practiced
+- 🛠️ What I built
+- 🐛 Problems or errors I faced
+- ✅ What I completed
+- 🎯 What I plan to learn next
