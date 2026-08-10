@@ -1,3 +1,3 @@
 Today I learned about machine learning (topic)=> fetchinga data from an api .
-
+Today i make project on MBDM (movies data) which is uploaded on my github machine learning repo .
 My Tommorws goal is learning about Machine learning next topic which is web scraping .
