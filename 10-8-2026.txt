@@ -1,1 +1,3 @@
 Today I learned about machine learning (topic)=> fetchinga data from an api .
+
+My Tommorws goal is learning about Machine learning next topic which is web scraping .
