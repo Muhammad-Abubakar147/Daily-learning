@@ -1,0 +1,12 @@
+Today i Learned about machine learning =>"understanding ur data" .
+
+In which i learned 7 questions about "understanding ur data" 
+There are 7 different question of this topic 
+
+=> HOw data looks like
+=> how data is big ?
+=> What is the data type of cols ?
+=> Is there any missing values in ur dataset ?
+=> how does data looks like mathematically ?
+=> Are there any duplicate values ?
+=> How is the co realtion b/w cols ?
